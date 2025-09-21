@@ -1,0 +1,126 @@
+.icon {
+  background-image: url('./src/assets/sprites.png');
+  background-repeat: no-repeat;
+  background-size: 562px 564px;
+  display: inline-block;
+}
+
+/* road */
+
+.icon-road-0-0-0 {
+  background-position: -0px -320px;
+}
+
+.icon-road-b-0-0 {
+  background-position: -0px -256px;
+}
+
+.icon-road-0-b-0 {
+  background-position: -64px -192px;
+}
+
+.icon-road-b-b-0 {
+  background-position: -64px -128px;
+}
+
+.icon-road-x-0-0 {
+  background-position: -192px -384px;
+}
+
+.icon-road-x-b-0 {
+  background-position: -192px -192px;
+}
+
+.icon-road-0-x-0 {
+  background-position: -64px -384px;
+}
+
+.icon-road-b-x-0 {
+  background-position: -256px -256px;
+}
+
+.icon-road-x-x-0 {
+  background-position: -64px -320px;
+}
+
+.icon-road-0-0-1 {
+  background-position: -0px -448px;
+}
+
+.icon-road-b-0-1 {
+  background-position: -192px -320px;
+}
+
+.icon-road-0-b-1 {
+  background-position: -0px -192px;
+}
+
+.icon-road-b-b-1 {
+  background-position: -64px -64px;
+}
+
+.icon-road-x-0-1 {
+  background-position: -128px -192px;
+}
+
+.icon-road-x-b-1 {
+  background-position: -128px -256px;
+}
+
+.icon-road-0-x-1 {
+  background-position: -128px -320px;
+}
+
+.icon-road-b-x-1 {
+  background-position: -128px -128px;
+}
+
+.icon-road-x-x-1 {
+  background-position: -192px -64px;
+}
+
+/* tank */
+
+.icon-tank-1 {
+  width: 38px;
+  height: 46px;
+  background-position: -474px -0px;
+}
+
+.icon-tank-2 {
+  width: 42px;
+  height: 46px;
+  background-position: -432px -0px;
+}
+
+/* explosion */
+
+.icon-explosion-1 {
+  width: 60px;
+  height: 60px;
+  background-position: -320px -402px;
+}
+
+.icon-explosion-2 {
+  width: 57px;
+  height: 56px;
+  background-position: -382px -254px;
+}
+
+.icon-explosion-3 {
+  width: 63px;
+  height: 63px;
+  background-position: -320px -128px;
+}
+
+.icon-explosion-4 {
+  width: 64px;
+  height: 64px;
+  background-position: -64px -256px;
+}
+
+.icon-explosion-5 {
+  width: 36px;
+  height: 36px;
+  background-position: -476px -46px;
+}

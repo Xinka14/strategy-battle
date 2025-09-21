@@ -4,7 +4,7 @@ import tseslint from 'typescript-eslint';
 import pluginVue from 'eslint-plugin-vue';
 import eslintConfigPrettier from 'eslint-config-prettier';
 import css from '@eslint/css';
-import { defineConfig } from 'eslint/config';
+import { defineConfig, globalIgnores } from 'eslint/config';
 
 export default defineConfig([
   {
@@ -29,4 +29,5 @@ export default defineConfig([
     language: 'css/css',
     extends: ['css/recommended'],
   },
+  globalIgnores(['src/*.css']), // FIXME: workaround
 ]);

@@ -1,0 +1,1128 @@
+.icon {
+  background-image: url('./src/assets/sprites.png');
+  background-repeat: no-repeat;
+  background-size: 562px 564px;
+  display: inline-block;
+}
+
+.icon-barrelBlack_side {
+  width: 20px;
+  height: 28px;
+  background-position: -508px -255px;
+}
+
+.icon-barrelBlack_top.png {
+  width: 24px;
+  height: 24px;
+  background-position: -507px -516px;
+}
+
+.icon-barrelGreen_side.png {
+  width: 20px;
+  height: 28px;
+  background-position: -512px -0px;
+}
+
+.icon-barrelGreen_top.png {
+  width: 24px;
+  height: 24px;
+  background-position: -506px -404px;
+}
+
+.icon-barrelRed_side.png {
+  width: 20px;
+  height: 28px;
+  background-position: -414px -370px;
+}
+
+.icon-barrelRed_top.png {
+  width: 24px;
+  height: 24px;
+  background-position: -507px -492px;
+}
+
+.icon-barrelRust_side.png {
+  width: 20px;
+  height: 28px;
+  background-position: -508px -376px;
+}
+
+.icon-barrelRust_top.png {
+  width: 24px;
+  height: 24px;
+  background-position: -507px -468px;
+}
+
+.icon-barricadeMetal.png {
+  width: 28px;
+  height: 28px;
+  background-position: -479px -468px;
+}
+
+.icon-barricadeWood.png {
+  width: 28px;
+  height: 28px;
+  background-position: -479px -524px;
+}
+
+.icon-bulletBlue1.png {
+  width: 4px;
+  height: 10px;
+  background-position: -503px -552px;
+}
+
+.icon-bulletBlue1_outline.png {
+  width: 8px;
+  height: 14px;
+  background-position: -553px -534px;
+}
+
+.icon-bulletBlue2.png {
+  width: 8px;
+  height: 12px;
+  background-position: -495px -552px;
+}
+
+.icon-bulletBlue2_outline.png {
+  width: 12px;
+  height: 16px;
+  background-position: -513px -352px;
+}
+
+.icon-bulletBlue3.png {
+  width: 4px;
+  height: 14px;
+  background-position: -435px -232px;
+}
+
+.icon-bulletBlue3_outline.png {
+  width: 8px;
+  height: 18px;
+  background-position: -553px -120px;
+}
+
+.icon-bulletDark1.png {
+  width: 4px;
+  height: 10px;
+  background-position: -114px -512px;
+}
+
+.icon-bulletDark1_outline.png {
+  width: 8px;
+  height: 14px;
+  background-position: -553px -548px;
+}
+
+.icon-bulletDark2.png {
+  width: 8px;
+  height: 12px;
+  background-position: -487px -552px;
+}
+
+.icon-bulletDark2_outline.png {
+  width: 12px;
+  height: 16px;
+  background-position: -542px -327px;
+}
+
+.icon-bulletDark3.png {
+  width: 4px;
+  height: 14px;
+  background-position: -512px -79px;
+}
+
+.icon-bulletDark3_outline.png {
+  width: 8px;
+  height: 18px;
+  background-position: -553px -246px;
+}
+
+.icon-bulletGreen1.png {
+  width: 4px;
+  height: 10px;
+  background-position: -154px -552px;
+}
+
+.icon-bulletGreen1_outline.png {
+  width: 8px;
+  height: 14px;
+  background-position: -553px -206px;
+}
+
+.icon-bulletGreen2.png {
+  width: 8px;
+  height: 12px;
+  background-position: -342px -549px;
+}
+
+.icon-bulletGreen2_outline.png {
+  width: 12px;
+  height: 16px;
+  background-position: -533px -534px;
+}
+
+.icon-bulletGreen3.png {
+  width: 4px;
+  height: 14px;
+  background-position: -350px -549px;
+}
+
+.icon-bulletGreen3_outline.png {
+  width: 8px;
+  height: 18px;
+  background-position: -552px -102px;
+}
+
+.icon-bulletRed1.png {
+  width: 4px;
+  height: 10px;
+  background-position: -118px -512px;
+}
+
+.icon-bulletRed1_outline.png {
+  width: 8px;
+  height: 14px;
+  background-position: -334px -549px;
+}
+
+.icon-bulletRed2.png {
+  width: 8px;
+  height: 12px;
+  background-position: -479px -552px;
+}
+
+.icon-bulletRed2_outline.png {
+  width: 12px;
+  height: 16px;
+  background-position: -530px -327px;
+}
+
+.icon-bulletRed3.png {
+  width: 4px;
+  height: 14px;
+  background-position: -154px -538px;
+}
+
+.icon-bulletRed3_outline.png {
+  width: 8px;
+  height: 18px;
+  background-position: -532px -30px;
+}
+
+.icon-bulletSand1.png {
+  width: 4px;
+  height: 10px;
+  background-position: -106px -554px;
+}
+
+.icon-bulletSand1_outline.png {
+  width: 8px;
+  height: 14px;
+  background-position: -326px -549px;
+}
+
+.icon-bulletSand2.png {
+  width: 8px;
+  height: 12px;
+  background-position: -545px -259px;
+}
+
+.icon-bulletSand2_outline.png {
+  width: 12px;
+  height: 16px;
+  background-position: -542px -60px;
+}
+
+.icon-bulletSand3.png {
+  width: 4px;
+  height: 14px;
+  background-position: -476px -376px;
+}
+
+.icon-bulletSand3_outline.png {
+  width: 8px;
+  height: 18px;
+  background-position: -465px -284px;
+}
+
+.icon-crateMetal.png {
+  width: 28px;
+  height: 28px;
+  background-position: -479px -496px;
+}
+
+.icon-crateMetal_side.png {
+  width: 28px;
+  height: 28px;
+  background-position: -480px -217px;
+}
+
+.icon-crateWood.png {
+  width: 28px;
+  height: 28px;
+  background-position: -480px -376px;
+}
+
+.icon-crateWood_side.png {
+  width: 28px;
+  height: 28px;
+  background-position: -480px -245px;
+}
+
+.icon-explosion1.png {
+  width: 60px;
+  height: 60px;
+  background-position: -320px -402px;
+}
+
+.icon-explosion2.png {
+  width: 57px;
+  height: 56px;
+  background-position: -382px -254px;
+}
+
+.icon-explosion3.png {
+  width: 63px;
+  height: 63px;
+  background-position: -320px -128px;
+}
+
+.icon-explosion4.png {
+  width: 46px;
+  height: 45px;
+  background-position: -430px -48px;
+}
+
+.icon-explosion5.png {
+  width: 53px;
+  height: 52px;
+  background-position: -0px -512px;
+}
+
+.icon-explosionSmoke1.png {
+  width: 60px;
+  height: 60px;
+  background-position: -320px -462px;
+}
+
+.icon-explosionSmoke2.png {
+  width: 57px;
+  height: 56px;
+  background-position: -380px -470px;
+}
+
+.icon-explosionSmoke3.png {
+  width: 63px;
+  height: 63px;
+  background-position: -320px -191px;
+}
+
+.icon-explosionSmoke4.png {
+  width: 46px;
+  height: 45px;
+  background-position: -384px -48px;
+}
+
+.icon-explosionSmoke5.png {
+  width: 53px;
+  height: 52px;
+  background-position: -53px -512px;
+}
+
+.icon-fenceRed.png {
+  width: 48px;
+  height: 16px;
+  background-position: -106px -538px;
+}
+
+.icon-fenceYellow.png {
+  width: 52px;
+  height: 16px;
+  background-position: -106px -522px;
+}
+
+.icon-oilSpill_large.png {
+  width: 50px;
+  height: 50px;
+  background-position: -262px -512px;
+}
+
+.icon-oilSpill_small.png {
+  width: 14px;
+  height: 14px;
+  background-position: -312px -549px;
+}
+
+.icon-sandbagBeige.png {
+  width: 32px;
+  height: 22px;
+  background-position: -384px -93px;
+}
+
+.icon-sandbagBeige_open.png {
+  width: 42px;
+  height: 27px;
+  background-position: -312px -522px;
+}
+
+.icon-sandbagBrown.png {
+  width: 32px;
+  height: 22px;
+  background-position: -382px -370px;
+}
+
+.icon-sandbagBrown_open.png {
+  width: 42px;
+  height: 27px;
+  background-position: -354px -526px;
+}
+
+.icon-shotLarge.png {
+  width: 20px;
+  height: 25px;
+  background-position: -512px -28px;
+}
+
+.icon-shotOrange.png {
+  width: 16px;
+  height: 28px;
+  background-position: -516px -107px;
+}
+
+.icon-shotRed.png {
+  width: 21px;
+  height: 38px;
+  background-position: -508px -217px;
+}
+
+.icon-shotThin.png {
+  width: 8px;
+  height: 26px;
+  background-position: -553px -220px;
+}
+
+.icon-specialBarrel1.png {
+  width: 14px;
+  height: 22px;
+  background-position: -507px -540px;
+}
+
+.icon-specialBarrel1_outline.png {
+  width: 18px;
+  height: 26px;
+  background-position: -512px -53px;
+}
+
+.icon-specialBarrel2.png {
+  width: 12px;
+  height: 24px;
+  background-position: -521px -540px;
+}
+
+.icon-specialBarrel2_outline.png {
+  width: 16px;
+  height: 28px;
+  background-position: -516px -79px;
+}
+
+.icon-specialBarrel3.png {
+  width: 10px;
+  height: 28px;
+  background-position: -544px -0px;
+}
+
+.icon-specialBarrel3_outline.png {
+  width: 14px;
+  height: 32px;
+  background-position: -416px -93px;
+}
+
+.icon-specialBarrel4.png {
+  width: 10px;
+  height: 32px;
+  background-position: -544px -373px;
+}
+
+.icon-specialBarrel4_outline.png {
+  width: 14px;
+  height: 36px;
+  background-position: -530px -382px;
+}
+
+.icon-specialBarrel5.png {
+  width: 12px;
+  height: 26px;
+  background-position: -530px -53px;
+}
+
+.icon-specialBarrel5_outline.png {
+  width: 16px;
+  height: 30px;
+  background-position: -529px -181px;
+}
+
+.icon-specialBarrel6.png {
+  width: 8px;
+  height: 26px;
+  background-position: -544px -76px;
+}
+
+.icon-specialBarrel6_outline.png {
+  width: 12px;
+  height: 30px;
+  background-position: -531px -448px;
+}
+
+.icon-specialBarrel7.png {
+  width: 8px;
+  height: 26px;
+  background-position: -553px -180px;
+}
+
+.icon-specialBarrel7_outline.png {
+  width: 12px;
+  height: 30px;
+  background-position: -531px -504px;
+}
+
+.icon-tankBlue_barrel1.png {
+  width: 12px;
+  height: 26px;
+  background-position: -543px -478px;
+}
+
+.icon-tankBlue_barrel1_outline.png {
+  width: 16px;
+  height: 30px;
+  background-position: -529px -211px;
+}
+
+.icon-tankBlue_barrel2.png {
+  width: 8px;
+  height: 26px;
+  background-position: -545px -534px;
+}
+
+.icon-tankBlue_barrel2_outline.png {
+  width: 12px;
+  height: 30px;
+  background-position: -530px -418px;
+}
+
+.icon-tankBlue_barrel3.png {
+  width: 8px;
+  height: 26px;
+  background-position: -545px -233px;
+}
+
+.icon-tankBlue_barrel3_outline.png {
+  width: 12px;
+  height: 30px;
+  background-position: -530px -271px;
+}
+
+.icon-tankBody_bigRed.png {
+  width: 48px;
+  height: 48px;
+  background-position: -384px -0px;
+}
+
+.icon-tankBody_bigRed_outline.png {
+  width: 52px;
+  height: 52px;
+  background-position: -210px -512px;
+}
+
+.icon-tankBody_blue.png {
+  width: 38px;
+  height: 38px;
+  background-position: -396px -526px;
+}
+
+.icon-tankBody_blue_outline.png {
+  width: 42px;
+  height: 42px;
+  background-position: -434px -310px;
+}
+
+.icon-tankBody_dark.png {
+  width: 38px;
+  height: 36px;
+  background-position: -438px -432px;
+}
+
+.icon-tankBody_darkLarge.png {
+  width: 48px;
+  height: 56px;
+  background-position: -383px -128px;
+}
+
+.icon-tankBody_darkLarge_outline.png {
+  width: 52px;
+  height: 60px;
+  background-position: -382px -310px;
+}
+
+.icon-tankBody_dark_outline.png {
+  width: 42px;
+  height: 40px;
+  background-position: -434px -352px;
+}
+
+.icon-tankBody_green.png {
+  width: 38px;
+  height: 36px;
+  background-position: -473px -145px;
+}
+
+.icon-tankBody_green_outline.png {
+  width: 42px;
+  height: 40px;
+  background-position: -437px -516px;
+}
+
+.icon-tankBody_huge.png {
+  width: 58px;
+  height: 68px;
+  background-position: -380px -402px;
+}
+
+.icon-tankBody_huge_outline.png {
+  width: 62px;
+  height: 72px;
+  background-position: -320px -330px;
+}
+
+.icon-tankBody_red.png {
+  width: 34px;
+  height: 36px;
+  background-position: -511px -145px;
+}
+
+.icon-tankBody_red_outline.png {
+  width: 38px;
+  height: 40px;
+  background-position: -476px -284px;
+}
+
+.icon-tankBody_sand.png {
+  width: 38px;
+  height: 36px;
+  background-position: -476px -432px;
+}
+
+.icon-tankBody_sand_outline.png {
+  width: 42px;
+  height: 40px;
+  background-position: -438px -392px;
+}
+
+.icon-tankDark_barrel1.png {
+  width: 12px;
+  height: 26px;
+  background-position: -542px -301px;
+}
+
+.icon-tankDark_barrel1_outline.png {
+  width: 16px;
+  height: 30px;
+  background-position: -528px -352px;
+}
+
+.icon-tankDark_barrel2.png {
+  width: 8px;
+  height: 26px;
+  background-position: -545px -154px;
+}
+
+.icon-tankDark_barrel2_outline.png {
+  width: 12px;
+  height: 30px;
+  background-position: -542px -418px;
+}
+
+.icon-tankDark_barrel3.png {
+  width: 8px;
+  height: 26px;
+  background-position: -553px -138px;
+}
+
+.icon-tankDark_barrel3_outline.png {
+  width: 12px;
+  height: 30px;
+  background-position: -532px -105px;
+}
+
+.icon-tankGreen_barrel1.png {
+  width: 12px;
+  height: 26px;
+  background-position: -531px -478px;
+}
+
+.icon-tankGreen_barrel1_outline.png {
+  width: 16px;
+  height: 30px;
+  background-position: -514px -428px;
+}
+
+.icon-tankGreen_barrel2.png {
+  width: 8px;
+  height: 26px;
+  background-position: -554px -373px;
+}
+
+.icon-tankGreen_barrel2_outline.png {
+  width: 12px;
+  height: 30px;
+  background-position: -543px -448px;
+}
+
+.icon-tankGreen_barrel3.png {
+  width: 8px;
+  height: 26px;
+  background-position: -544px -102px;
+}
+
+.icon-tankGreen_barrel3_outline.png {
+  width: 12px;
+  height: 30px;
+  background-position: -543px -504px;
+}
+
+.icon-tankRed_barrel1.png {
+  width: 12px;
+  height: 26px;
+  background-position: -530px -301px;
+}
+
+.icon-tankRed_barrel1_outline.png {
+  width: 16px;
+  height: 30px;
+  background-position: -513px -181px;
+}
+
+.icon-tankRed_barrel2.png {
+  width: 8px;
+  height: 26px;
+  background-position: -545px -207px;
+}
+
+.icon-tankRed_barrel2_outline.png {
+  width: 12px;
+  height: 30px;
+  background-position: -542px -271px;
+}
+
+.icon-tankRed_barrel3.png {
+  width: 8px;
+  height: 26px;
+  background-position: -545px -181px;
+}
+
+.icon-tankRed_barrel3_outline.png {
+  width: 12px;
+  height: 30px;
+  background-position: -544px -343px;
+}
+
+.icon-tankSand_barrel1.png {
+  width: 12px;
+  height: 26px;
+  background-position: -532px -79px;
+}
+
+.icon-tankSand_barrel1_outline.png {
+  width: 16px;
+  height: 30px;
+  background-position: -529px -241px;
+}
+
+.icon-tankSand_barrel2.png {
+  width: 8px;
+  height: 26px;
+  background-position: -552px -76px;
+}
+
+.icon-tankSand_barrel2_outline.png {
+  width: 12px;
+  height: 30px;
+  background-position: -532px -0px;
+}
+
+.icon-tankSand_barrel3.png {
+  width: 8px;
+  height: 26px;
+  background-position: -545px -128px;
+}
+
+.icon-tankSand_barrel3_outline.png {
+  width: 12px;
+  height: 30px;
+  background-position: -542px -30px;
+}
+
+.icon-tank_bigRed.png {
+  width: 52px;
+  height: 52px;
+  background-position: -158px -512px;
+}
+
+.icon-tank_blue.png {
+  width: 42px;
+  height: 46px;
+  background-position: -437px -470px;
+}
+
+.icon-tank_dark.png {
+  width: 42px;
+  height: 46px;
+  background-position: -435px -186px;
+}
+
+.icon-tank_darkLarge.png {
+  width: 52px;
+  height: 60px;
+  background-position: -383px -191px;
+}
+
+.icon-tank_green.png {
+  width: 42px;
+  height: 46px;
+  background-position: -432px -0px;
+}
+
+.icon-tank_huge.png {
+  width: 62px;
+  height: 76px;
+  background-position: -320px -254px;
+}
+
+.icon-tank_red.png {
+  width: 38px;
+  height: 46px;
+  background-position: -474px -0px;
+}
+
+.icon-tank_sand.png {
+  width: 42px;
+  height: 46px;
+  background-position: -431px -140px;
+}
+
+.icon-tileGrass1.png {
+  width: 64px;
+  height: 64px;
+  background-position: -192px -448px;
+}
+
+.icon-tileGrass2.png {
+  width: 64px;
+  height: 64px;
+  background-position: -192px -128px;
+}
+
+.icon-tileGrass_roadCornerLL.png {
+  width: 64px;
+  height: 64px;
+  background-position: -0px -256px;
+}
+
+.icon-tileGrass_roadCornerLR.png {
+  width: 64px;
+  height: 64px;
+  background-position: -0px -320px;
+}
+
+.icon-tileGrass_roadCornerUL.png {
+  width: 64px;
+  height: 64px;
+  background-position: -64px -128px;
+}
+
+.icon-tileGrass_roadCornerUR.png {
+  width: 64px;
+  height: 64px;
+  background-position: -64px -192px;
+}
+
+.icon-tileGrass_roadCrossing.png {
+  width: 64px;
+  height: 64px;
+  background-position: -64px -320px;
+}
+
+.icon-tileGrass_roadCrossingRound.png {
+  width: 64px;
+  height: 64px;
+  background-position: -192px -256px;
+}
+
+.icon-tileGrass_roadEast.png {
+  width: 64px;
+  height: 64px;
+  background-position: -0px -384px;
+}
+
+.icon-tileGrass_roadNorth.png {
+  width: 64px;
+  height: 64px;
+  background-position: -64px -448px;
+}
+
+.icon-tileGrass_roadSplitE.png {
+  width: 64px;
+  height: 64px;
+  background-position: -64px -384px;
+}
+
+.icon-tileGrass_roadSplitN.png {
+  width: 64px;
+  height: 64px;
+  background-position: -192px -192px;
+}
+
+.icon-tileGrass_roadSplitS.png {
+  width: 64px;
+  height: 64px;
+  background-position: -192px -384px;
+}
+
+.icon-tileGrass_roadSplitW.png {
+  width: 64px;
+  height: 64px;
+  background-position: -256px -256px;
+}
+
+.icon-tileGrass_roadTransitionE.png {
+  width: 64px;
+  height: 64px;
+  background-position: -256px -320px;
+}
+
+.icon-tileGrass_roadTransitionE_dirt.png {
+  width: 64px;
+  height: 64px;
+  background-position: -256px -384px;
+}
+
+.icon-tileGrass_roadTransitionN.png {
+  width: 64px;
+  height: 64px;
+  background-position: -256px -192px;
+}
+
+.icon-tileGrass_roadTransitionN_dirt.png {
+  width: 64px;
+  height: 64px;
+  background-position: -320px -0px;
+}
+
+.icon-tileGrass_roadTransitionS.png {
+  width: 64px;
+  height: 64px;
+  background-position: -256px -448px;
+}
+
+.icon-tileGrass_roadTransitionS_dirt.png {
+  width: 64px;
+  height: 64px;
+  background-position: -0px -0px;
+}
+
+.icon-tileGrass_roadTransitionW.png {
+  width: 64px;
+  height: 64px;
+  background-position: -0px -128px;
+}
+
+.icon-tileGrass_roadTransitionW_dirt.png {
+  width: 64px;
+  height: 64px;
+  background-position: -0px -64px;
+}
+
+.icon-tileGrass_transitionE.png {
+  width: 64px;
+  height: 64px;
+  background-position: -320px -64px;
+}
+
+.icon-tileGrass_transitionN.png {
+  width: 64px;
+  height: 64px;
+  background-position: -256px -128px;
+}
+
+.icon-tileGrass_transitionS.png {
+  width: 64px;
+  height: 64px;
+  background-position: -256px -64px;
+}
+
+.icon-tileGrass_transitionW.png {
+  width: 64px;
+  height: 64px;
+  background-position: -256px -0px;
+}
+
+.icon-tileSand1.png {
+  width: 64px;
+  height: 64px;
+  background-position: -128px -64px;
+}
+
+.icon-tileSand2.png {
+  width: 64px;
+  height: 64px;
+  background-position: -128px -0px;
+}
+
+.icon-tileSand_roadCornerLL.png {
+  width: 64px;
+  height: 64px;
+  background-position: -192px -320px;
+}
+
+.icon-tileSand_roadCornerLR.png {
+  width: 64px;
+  height: 64px;
+  background-position: -0px -448px;
+}
+
+.icon-tileSand_roadCornerUL.png {
+  width: 64px;
+  height: 64px;
+  background-position: -64px -64px;
+}
+
+.icon-tileSand_roadCornerUR.png {
+  width: 64px;
+  height: 64px;
+  background-position: -0px -192px;
+}
+
+.icon-tileSand_roadCrossing.png {
+  width: 64px;
+  height: 64px;
+  background-position: -192px -64px;
+}
+
+.icon-tileSand_roadCrossingRound.png {
+  width: 64px;
+  height: 64px;
+  background-position: -192px -0px;
+}
+
+.icon-tileSand_roadEast.png {
+  width: 64px;
+  height: 64px;
+  background-position: -128px -448px;
+}
+
+.icon-tileSand_roadNorth.png {
+  width: 64px;
+  height: 64px;
+  background-position: -128px -384px;
+}
+
+.icon-tileSand_roadSplitE.png {
+  width: 64px;
+  height: 64px;
+  background-position: -128px -320px;
+}
+
+.icon-tileSand_roadSplitN.png {
+  width: 64px;
+  height: 64px;
+  background-position: -128px -256px;
+}
+
+.icon-tileSand_roadSplitS.png {
+  width: 64px;
+  height: 64px;
+  background-position: -128px -192px;
+}
+
+.icon-tileSand_roadSplitW.png {
+  width: 64px;
+  height: 64px;
+  background-position: -128px -128px;
+}
+
+.icon-tracksDouble.png {
+  width: 41px;
+  height: 52px;
+  background-position: -475px -93px;
+}
+
+.icon-tracksLarge.png {
+  width: 41px;
+  height: 52px;
+  background-position: -439px -232px;
+}
+
+.icon-tracksSmall.png {
+  width: 37px;
+  height: 52px;
+  background-position: -476px -324px;
+}
+
+.icon-treeBrown_large.png {
+  width: 64px;
+  height: 64px;
+  background-position: -64px -256px;
+}
+
+.icon-treeBrown_leaf.png {
+  width: 8px;
+  height: 10px;
+  background-position: -106px -512px;
+}
+
+.icon-treeBrown_small.png {
+  width: 36px;
+  height: 36px;
+  background-position: -476px -46px;
+}
+
+.icon-treeBrown_twigs.png {
+  width: 26px;
+  height: 22px;
+  background-position: -439px -284px;
+}
+
+.icon-treeGreen_large.png {
+  width: 64px;
+  height: 64px;
+  background-position: -64px -0px;
+}
+
+.icon-treeGreen_leaf.png {
+  width: 8px;
+  height: 10px;
+  background-position: -312px -512px;
+}
+
+.icon-treeGreen_small.png {
+  width: 36px;
+  height: 36px;
+  background-position: -477px -181px;
+}
+
+.icon-treeGreen_twigs.png {
+  width: 26px;
+  height: 22px;
+  background-position: -480px -404px;
+}
+
+.icon-wireCrooked.png {
+  width: 44px;
+  height: 47px;
+  background-position: -431px -93px;
+}
+
+.icon-wireStraight.png {
+  width: 16px;
+  height: 69px;
+  background-position: -514px -283px;
+}
