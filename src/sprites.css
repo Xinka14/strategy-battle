@@ -1,5 +1,5 @@
 .icon {
-  background-image: url('./src/assets/sprites.png');
+  background-image: url('/src/assets/sprites.png');
   background-repeat: no-repeat;
   background-size: 562px 564px;
   display: inline-block;
